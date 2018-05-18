@@ -1,8 +1,10 @@
-# Awesome component-driven development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome component-driven development [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of links on component-driven development and design systems
 
-<!-- To update run: npx markdown-toc --maxdepth 3 -i Readme.md -->
+## Table of contents
+
+<!-- To update run: npx markdown-toc -i Readme.md -->
 
 <!-- toc -->
 
@@ -21,6 +23,7 @@ A curated list of links on component-driven development and design systems
   * [Misc](#misc)
 - [Talks](#talks)
 - [Books](#books)
+- [Courses](#courses)
 - [Tools](#tools)
   * [Development workbenches](#development-workbenches)
   * [Misc](#misc-1)
@@ -29,25 +32,26 @@ A curated list of links on component-driven development and design systems
 - [Design system examples](#design-system-examples)
   * [Design system catalogs](#design-system-catalogs)
 - [Misc](#misc-2)
-  * [Authors and license](#authors-and-license)
+- [Contributing](#contributing)
+- [Authors and license](#authors-and-license)
 
 <!-- tocstop -->
 
-# Articles
+## Articles
 
-## Components
+### Components
 
 * [Cards and Composability in Design Systems](https://medium.com/eightshapes-llc/cards-and-composability-in-design-systems-8845ecbee50e)
 * [Designing Button States](https://cloudfour.com/thinks/designing-button-states/)
 * [Handling spacing in a UI component library](https://medium.com/fed-or-dead/handling-spacing-in-a-ui-component-library-70f3b22ec89)
 * [Hidden in plain site — the levels of component reuse. The path to portability for UI components](https://blog.hichroma.com/hidden-in-plain-site-the-levels-of-component-reuse-ee9b0d7b1bd2)
 
-### React
+#### React
 
 * [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
-## Development tools
+### Development tools
 
 * [Component-Driven Development](https://blog.hichroma.com/component-driven-development-ce1109d56c8e#.ltre4c82b)
 * [Prefabricated components. The case for building UI components in isolation](https://blog.hichroma.com/prefabricated-components-2932bfc992ba)
@@ -56,16 +60,16 @@ A curated list of links on component-driven development and design systems
 * [UI component explorers — your new favorite tool](https://blog.hichroma.com/the-crucial-tool-for-modern-frontend-engineers-fb849b06187a#.ag31xppof)
 * [Using React within a Design System](https://medium.com/buildit/using-react-within-a-design-system-73d4bb0cc822#.nix8am1gt)
 
-## Styles
+### Styles
 
 * [Creating truly universal React component systems. Announcing styled-components/primitives](https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7)
 * [Designer-Oriented Styles](https://the-pastry-box-project.net/james-kyle/2018-january-22)
 
-## Testing
+### Testing
 
 * [Visual Testing — the pragmatic way to test UIs](https://blog.hichroma.com/visual-testing-the-pragmatic-way-to-test-uis-18c8da617ecf)
 
-## Design systems
+### Design systems
 
 * [4 Things I Know About Pattern Libraries](http://daverupert.com/2017/06/what-i-know-about-pattern-libraries/)
 * [Building a React Component Library](https://medium.com/@_alanbsmith/building-a-react-component-library-part-1-d8a1e248fe6c)
@@ -82,12 +86,12 @@ A curated list of links on component-driven development and design systems
 * [Taking The Pattern Library To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
 * [UI Component Playbook. A 5-step guide to designing and engineering frontends with components](https://blog.hichroma.com/ui-component-playbook-fd3022d00590#.7yfxvqlqw)
 
-## Design
+### Design
 
 * [Dark Patterns are designed to trick you (and they’re all over the Web)](https://arstechnica.com/information-technology/2016/07/dark-patterns-are-designed-to-trick-you-and-theyre-all-over-the-web/)
 * [Design System Grammar](https://daneden.me/2017/07/12/a-design-system-grammar/)
 
-## Whitespace
+### Whitespace
 
 * [8-Point Grid: Borders And Layouts](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)
 * [Framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
@@ -98,19 +102,19 @@ A curated list of links on component-driven development and design systems
 * [Whitespace](http://alistapart.com/article/whitespace)
 * [Why White Space Is Crucial To UX Design](https://www.fastcodesign.com/3046656/why-white-space-is-crucial-to-ux-design)
 
-## Color
+### Color
 
 * [10 Reasons to Use Color](http://understandinggraphics.com/design/10-reasons-to-use-color/)
 * [Polishing GitLab’s UI: A new color system](https://about.gitlab.com/2018/03/29/polishing-gitlabs-ui-a-new-color-system/)
 
-## Typography
+### Typography
 
 * [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
 * [Framework to create an accessible & harmonious typography system for faster design-dev handoff](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
 * [Typographic scale](http://spencermortensen.com/articles/typographic-scale/)
 * [Typography in Design Systems](https://medium.com/@ethersystem/typography-in-design-systems-d61bf5d8a333)
 
-## Design tools
+### Design tools
 
 * [Component architecture in Figma](https://blog.figma.com/component-architecture-in-figma-f16ae9cc4481)
 * [Creating and Maintaining the Marvel Style Guide in Sketch](https://blog.marvelapp.com/creating-maintaining-marvel-style-guide-sketch/)
@@ -119,7 +123,7 @@ A curated list of links on component-driven development and design systems
 * [Painting with Code. Introducing our new open source library React Sketch.app](https://airbnb.design/painting-with-code/)
 * [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526)
 
-## Misc
+### Misc
 
 * [Pure UI](https://rauchg.com/2015/pure-ui)
 * [Sketching Interfaces. Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
@@ -127,8 +131,7 @@ A curated list of links on component-driven development and design systems
 * [Vue Design System](https://viljamis.com/2018/vue-design-system/)
 * [Why designers and frond-end developers should talk more often](http://janpersiel.com/why-designers-and-frond-end-developers-should-talk-more-often/)
 
-
-# Talks
+## Talks
 
 * [Build Beautiful Interfaces Faster](https://youtu.be/dlMe7u02m50) by Dominic Nguyen and Zhenya Savchenko (2016)
 * [Custom CSS is the path to inconsistent UI](https://youtu.be/Cdtwz3PbW7M) by Artem Sapegin (React Alicante 2017)
@@ -138,38 +141,40 @@ A curated list of links on component-driven development and design systems
 * [Nathan Curtis on Buttons in Design Systems](https://vimeo.com/223433031)
 * [Sketching in the Browser](https://youtu.be/ohw6AgPbJoE) by Mark Dalgleish (JSHeroes 2018)
 
-# Books
+## Books
 
 * [Atomic Design](https://shop.bradfrost.com/) by Brad Frost
 * [Design Systems: A practical guide to creating design languages for digital products](https://www.smashingmagazine.com/printed-books/design-systems/) by Alla Kholmatova
 * [Elements of Typographic Style](https://www.amazon.com/gp/product/0881792128/?tag=artesapesphot-20) by Robert Bringhurst
+* [Front-end Style Guides: Creating and Maintaining Style Guides for Websites](http://www.maban.co.uk/projects/front-end-style-guides/) by Anna Debenham
 * [Frontend Architecture for Design Systems: A Modern Blueprint for Scalable and Sustainable Websites](https://www.amazon.com/gp/product/B01B6WS868/?tag=artesapesphot-20) by Micah Godbolt
 
+## Courses
 
-# Tools
+* [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 
-## Development workbenches
+## Tools
+
+### Development workbenches
 
 * [React Cosmos](https://github.com/react-cosmos/react-cosmos)
 * [React Styleguidist](https://react-styleguidist.js.org/) — isolated React component development environment with a living style guide
 * [Storybook](https://storybook.js.org/)
 
-## Misc
+### Misc
 
-* [Theo](https://github.com/salesforce-ux/theo) — generate design tokens for web, iOS and Android from single source 
+* [Theo](https://github.com/salesforce-ux/theo) — generate design tokens for web, iOS and Android from single source
 
+## Libraries and components
 
-# Libraries and components
+### React
 
-## React
-
-* [Grid Styled](http://jxnblk.com/grid-styled/) — responsive React grid system
-built with styled-components
+* [Grid Styled](http://jxnblk.com/grid-styled/) — responsive React grid system built with styled-components
 * [React Group](https://github.com/sapegin/react-group) — render React children with a separator
 * [React Spaceman](https://github.com/sapegin/react-spaceman) — React component to manage whitespace
+* [styled-system](https://github.com/jxnblk/styled-system) — design system utilities for styled-components and other CSS in JS libraries
 
-
-# Design system examples
+## Design system examples
 
 * [Alfa Bank](http://design.alfabank.ru/)
 * [Ant Design](https://ant.design)
@@ -179,22 +184,25 @@ built with styled-components
 * [Rebass](http://jxnblk.com/rebass/)
 * [Vue Design System](https://vueds.com/)
 
-
-## Design system catalogs
+### Design system catalogs
 
 * [Adele](https://adele.uxpin.com/)
 * [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
-
-# Misc
+## Misc
 
 * [Dark Patterns](https://darkpatterns.org)
-* [User Interface Design patterns](http://ui-patterns.com)
+* [React Components Catalog](https://github.com/sapegin/react-components) — curated list of great React components
+* [User Interface Design Patterns](http://ui-patterns.com)
+* [Website Style Guide Resources](http://styleguides.io/)
 
+## Contributing
+
+Suggestions are welcome: [send a pull request](Contributing.md) if you find something awesome about component-driven development.
 
 ## Authors and license
 
-* [Andrey Okonetchnikov](http://okonet.ru/), a frontend engineer and UI & UX designer from Russia living in Vienna, Austria. 
+* [Andrey Okonetchnikov](http://okonet.ru/), a frontend engineer and UI & UX designer from Russia living in Vienna, Austria.
 * [Artem Sapegin](http://sapegin.me/), a frontend developer at [Wayfair](https://tech.wayfair.com/) and the creator of [React Styleguidist](https://github.com/styleguidist/react-styleguidist). He also writes about frontend at [his blog](http://blog.sapegin.me/).
 
-CC0 1.0 Universal license, see the included [License.md](/License.md) file.
+CC0 1.0 Universal license, see the included [License.md](License.md) file.
