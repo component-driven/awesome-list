@@ -141,8 +141,9 @@ A curated list of links on component-driven development and design systems
 # Books
 
 * [Atomic Design](https://shop.bradfrost.com/) by Brad Frost
-* [Design Systems](https://www.smashingmagazine.com/printed-books/design-systems/) by Alla Kholmatova
-* [Elements of Typographic Style](https://www.amazon.com/gp/product/0881792128/ref=dbs_a_def_rwt_bibl_vppi_i0) by Robert Bringhurst
+* [Design Systems: A practical guide to creating design languages for digital products](https://www.smashingmagazine.com/printed-books/design-systems/) by Alla Kholmatova
+* [Elements of Typographic Style](https://www.amazon.com/gp/product/0881792128/?tag=artesapesphot-20) by Robert Bringhurst
+* [Frontend Architecture for Design Systems: A Modern Blueprint for Scalable and Sustainable Websites](https://www.amazon.com/gp/product/B01B6WS868/?tag=artesapesphot-20) by Micah Godbolt
 
 
 # Tools
