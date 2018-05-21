@@ -84,6 +84,7 @@ A curated list of links on component-driven development and design systems
 * [Interface Inventory](http://bradfrost.com/blog/post/interface-inventory/)
 * [Setup a design system. Build a system that provides a unified set of UX, design rules and patterns](https://blog.prototypr.io/design-system-ac88c6740f53#.7teofr9rk)
 * [Taking The Pattern Library To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
+* [Tokens in Design Systems: 10 Tips to Architect & Implement Design Decisions for Everyone](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 * [UI Component Playbook. A 5-step guide to designing and engineering frontends with components](https://blog.hichroma.com/ui-component-playbook-fd3022d00590#.7yfxvqlqw)
 
 ### Design
