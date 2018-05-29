@@ -111,6 +111,7 @@ A curated list of links on component-driven development and design systems
 ### Typography
 
 * [Creating a type style guide](https://blog.typekit.com/2014/10/22/creating-a-type-style-guide/)
+* [Deep Dive on Typescales](https://medium.com/design-ibm/a-deep-dive-on-typescales-16c7b1473d83)
 * [Framework to create an accessible & harmonious typography system for faster design-dev handoff](https://blog.prototypr.io/10-practical-steps-to-create-a-predictable-accessible-and-harmonious-typography-system-a-case-6c85d901bedd)
 * [Typographic scale](http://spencermortensen.com/articles/typographic-scale/)
 * [Typography in Design Systems](https://medium.com/@ethersystem/typography-in-design-systems-d61bf5d8a333)
@@ -195,6 +196,7 @@ A curated list of links on component-driven development and design systems
 * [Dark Patterns](https://darkpatterns.org)
 * [React Components Catalog](https://github.com/sapegin/react-components) — curated list of great React components
 * [User Interface Design Patterns](http://ui-patterns.com)
+* [Type Scale](https://type-scale.com/) — a visual type scale calculator
 * [Website Style Guide Resources](http://styleguides.io/)
 
 ## Contributing
