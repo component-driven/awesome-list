@@ -45,6 +45,7 @@ A curated list of links on component-driven development and design systems
 * [Designing Button States](https://cloudfour.com/thinks/designing-button-states/)
 * [Handling spacing in a UI component library](https://medium.com/fed-or-dead/handling-spacing-in-a-ui-component-library-70f3b22ec89)
 * [Hidden in plain site — the levels of component reuse. The path to portability for UI components](https://blog.hichroma.com/hidden-in-plain-site-the-levels-of-component-reuse-ee9b0d7b1bd2)
+* [Managing Heading Levels In Design Systems](https://medium.com/@Heydon/managing-heading-levels-in-design-systems-18be9a746fa3)
 
 #### React
 
