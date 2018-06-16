@@ -186,7 +186,11 @@ A curated list of links on component-driven development and design systems
 * [Auth0 Design System](https://github.com/auth0/cosmos)
 * [Lightning Design System](https://www.lightningdesignsystem.com)
 * [Material Design](https://material.io/guidelines/)
+* [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
+* [Pluralsight Design System](https://design-system.pluralsight.com/)
+* [Polaris](https://polaris.shopify.com/) by Shopify
 * [Rebass](http://jxnblk.com/rebass/)
+* [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/)
 * [Vue Design System](https://vueds.com/)
 
 ### Design system catalogs
