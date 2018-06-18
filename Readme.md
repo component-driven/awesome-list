@@ -152,6 +152,7 @@ A curated list of links on component-driven development and design systems
 * [Elements of Typographic Style](https://www.amazon.com/gp/product/0881792128/?tag=artesapesphot-20) by Robert Bringhurst
 * [Front-end Style Guides: Creating and Maintaining Style Guides for Websites](http://www.maban.co.uk/projects/front-end-style-guides/) by Anna Debenham
 * [Frontend Architecture for Design Systems: A Modern Blueprint for Scalable and Sustainable Websites](https://www.amazon.com/gp/product/B01B6WS868/?tag=artesapesphot-20) by Micah Godbolt
+* [On Web Typography](https://abookapart.com/products/on-web-typography) by Jason Santa Maria
 
 ## Courses
 
