@@ -202,6 +202,7 @@ A curated list of links on component-driven development and design systems
 ## Misc
 
 * [Dark Patterns](https://darkpatterns.org)
+* [Design Systems newsletter](http://news.design.systems/)
 * [React Components Catalog](https://github.com/sapegin/react-components) — curated list of great React components
 * [User Interface Design Patterns](http://ui-patterns.com)
 * [Type Scale](https://type-scale.com/) — a visual type scale calculator
