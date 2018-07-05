@@ -175,6 +175,7 @@ A curated list of links on component-driven development and design systems
 
 ### React
 
+* [Atomic layout](https://github.com/kettanaito/atomic-layout) — a single component to distribute a spacial relation in your layouts
 * [Grid Styled](http://jxnblk.com/grid-styled/) — responsive React grid system built with styled-components
 * [macro-components](https://github.com/jxnblk/macro-components) — create flexible layout and composite UI components without the need to define arbitrary custom props
 * [React Group](https://github.com/sapegin/react-group) — render React children with a separator
