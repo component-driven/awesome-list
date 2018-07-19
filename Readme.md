@@ -41,6 +41,7 @@ A curated list of links on component-driven development and design systems
 
 ### Components
 
+* [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 * [Cards and Composability in Design Systems](https://medium.com/eightshapes-llc/cards-and-composability-in-design-systems-8845ecbee50e)
 * [Component Based Design System With Styled-System](https://varun.ca/styled-system/)
 * [Designing Button States](https://cloudfour.com/thinks/designing-button-states/)
