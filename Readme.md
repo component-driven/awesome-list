@@ -181,7 +181,12 @@ A curated list of links on component-driven development and design systems
 * [macro-components](https://github.com/jxnblk/macro-components) — create flexible layout and composite UI components without the need to define arbitrary custom props
 * [React Group](https://github.com/sapegin/react-group) — render React children with a separator
 * [React Spaceman](https://github.com/sapegin/react-spaceman) — React component to manage whitespace
+
+### Styles
+
+* [styled-tools](https://github.com/diegohaz/styled-tools) — useful interpolated functions for styled-components and other CSS in JS libraries
 * [styled-system](https://github.com/jxnblk/styled-system) — design system utilities for styled-components and other CSS in JS libraries
+
 
 ## Design system examples
 
