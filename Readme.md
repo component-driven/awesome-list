@@ -177,10 +177,12 @@ A curated list of links on component-driven development and design systems
 ### React
 
 * [Atomic layout](https://github.com/kettanaito/atomic-layout) — a single component to distribute a spacial relation in your layouts
-* [Grid Styled](http://jxnblk.com/grid-styled/) — responsive React grid system built with styled-components
 * [macro-components](https://github.com/jxnblk/macro-components) — create flexible layout and composite UI components without the need to define arbitrary custom props
-* [React Group](https://github.com/sapegin/react-group) — render React children with a separator
+* [React Group](https://sapegin.github.io/react-group/) — render React children with a separator
 * [React Spaceman](https://github.com/sapegin/react-spaceman) — React component to manage whitespace
+* [Rebass](https://rebassjs.org/) — Flexible & functional React design system, built with styled-system
+* [Rebass Grid](https://rebassjs.org/grid/) — responsive React grid system built with styled-components
+* [Stack Styled](https://sapegin.github.io/stack-styled/) — make stack layouts easy
 
 ### Styles
 
@@ -198,7 +200,6 @@ A curated list of links on component-driven development and design systems
 * [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
 * [Pluralsight Design System](https://design-system.pluralsight.com/)
 * [Polaris](https://polaris.shopify.com/) by Shopify
-* [Rebass](http://jxnblk.com/rebass/)
 * [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/)
 * [Vue Design System](https://vueds.com/)
 
