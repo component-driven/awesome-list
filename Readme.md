@@ -29,6 +29,7 @@ A curated list of links on component-driven development and design systems
   * [Misc](#misc-1)
 - [Libraries and components](#libraries-and-components)
   * [React](#react-1)
+  * [Styles](#styles-1)
 - [Design system examples](#design-system-examples)
   * [Design system catalogs](#design-system-catalogs)
 - [Misc](#misc-2)
