@@ -2,7 +2,7 @@
 
 A curated list of links on component-driven development and design systems
 
-## Table of contents
+## Contents
 
 <!-- To update run: npx markdown-toc -i Readme.md -->
 
