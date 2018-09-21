@@ -198,12 +198,18 @@ A curated list of links on component-driven development and design systems
 
 - [Alfa Bank](http://design.alfabank.ru/)
 - [Ant Design](https://ant.design)
+- [Aragon UI](https://ui.aragon.org/)
 - [Auth0 Design System](https://github.com/auth0/cosmos)
+- [Backpack](https://backpack.github.io/) by Skyscanner
+- [cf-design](https://cloudflare.github.io/cf-ui/) by Cloudflare
 - [Lightning Design System](https://www.lightningdesignsystem.com)
+- [Marvel](https://marvelapp.com/styleguide/)
 - [Material Design](https://material.io/guidelines/)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric)
+- [Pivotal UI](https://styleguide.pivotal.io/)
 - [Pluralsight Design System](https://design-system.pluralsight.com/)
 - [Polaris](https://polaris.shopify.com/) by Shopify
+- [Priceline One](https://pricelinelabs.github.io/design-system/)
 - [Seek Style Guide](https://seek-oss.github.io/seek-style-guide/)
 - [Vue Design System](https://vueds.com/)
 
