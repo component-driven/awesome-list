@@ -204,6 +204,7 @@ A curated list of links on component-driven development and design systems
 - [Auth0 Design System](https://github.com/auth0/cosmos)
 - [Backpack](https://backpack.github.io/) by Skyscanner
 - [Carbon Design System](https://www.carbondesignsystem.com) by IBM
+- [Circuit UI](https://circuit.sumup.com/#/) by SumUp 
 - [cf-design](https://cloudflare.github.io/cf-ui/) by Cloudflare
 - [Lightning Design System](https://www.lightningdesignsystem.com)
 - [Marvel](https://marvelapp.com/styleguide/)
