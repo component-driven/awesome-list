@@ -92,6 +92,7 @@ A curated list of links on component-driven development and design systems
 - [Taking The Pattern Library To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
 - [Tokens in Design Systems: 10 Tips to Architect & Implement Design Decisions for Everyone](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 - [UI Component Playbook. A 5-step guide to designing and engineering frontends with components](https://blog.hichroma.com/ui-component-playbook-fd3022d00590#.7yfxvqlqw)
+- [Elastic UI framework](https://elastic.github.io/eui/#/)
 
 ### Design
 
