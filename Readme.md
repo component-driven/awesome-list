@@ -199,6 +199,10 @@ A curated list of links on component-driven development and design systems
 - [styled-tools](https://github.com/diegohaz/styled-tools) — useful interpolated functions for styled-components and other CSS in JS libraries
 - [styled-system](https://github.com/jxnblk/styled-system) — design system utilities for styled-components and other CSS in JS libraries
 
+### Colors
+
+- https://github.com/lyft/coloralgorithm
+
 ## Design system examples
 
 - [Alfa Bank](http://design.alfabank.ru/)
