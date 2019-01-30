@@ -113,6 +113,8 @@ A curated list of links on component-driven development and design systems
 
 - [10 Reasons to Use Color](http://understandinggraphics.com/design/10-reasons-to-use-color/)
 - [Polishing GitLab’s UI: A new color system](https://about.gitlab.com/2018/03/29/polishing-gitlabs-ui-a-new-color-system/)
+- [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
+- [The Science of Color Contrast — An Expert Designer’s Guide](https://medium.muz.li/the-science-of-color-contrast-an-expert-designers-guide-33e84c41d156)
 
 ### Typography
 
@@ -176,6 +178,8 @@ A curated list of links on component-driven development and design systems
 
 - [Cupper](https://github.com/ThePacielloGroup/cupper) — documentation builder for inclusive designers
 - [Theo](https://github.com/salesforce-ux/theo) — generate design tokens for web, iOS and Android from single source
+- [ColorBox](https://www.colorbox.io) - a new way to building color systems for accessible UIs that scale
+- [Color](https://cloudflare.design/color/) - Color palette generator with aria and other interesting features
 
 ## Libraries and components
 
