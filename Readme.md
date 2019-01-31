@@ -201,7 +201,7 @@ A curated list of links on component-driven development and design systems
 
 ### Colors
 
-- https://github.com/lyft/coloralgorithm – Javacript function to produce color sets
+- [coloralgorithm](https://github.com/lyft/coloralgorithm) – Javacript function to produce color sets
 
 ## Design system examples
 
