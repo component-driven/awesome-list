@@ -56,6 +56,7 @@ A curated list of links on component-driven development and design systems
 
 - [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [The Three Tenets of Styled System](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)
 
 ### Development tools
 
