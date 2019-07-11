@@ -171,6 +171,7 @@ A curated list of links on component-driven development and design systems
 
 ### Development workbenches
 
+- [Bit](https://github.com/teambit/bit) - A tool for isolating, developing and sharing components between projects and applications, with 2-way collaboartion over components.
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos)
 - [React Styleguidist](https://react-styleguidist.js.org/) — isolated React component development environment with a living style guide
 - [Storybook](https://storybook.js.org/)
