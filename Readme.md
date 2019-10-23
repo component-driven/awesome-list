@@ -117,6 +117,7 @@ A curated list of links on component-driven development and design systems
 - [Polishing GitLab’s UI: A new color system](https://about.gitlab.com/2018/03/29/polishing-gitlabs-ui-a-new-color-system/)
 - [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 - [The Science of Color Contrast — An Expert Designer’s Guide](https://medium.muz.li/the-science-of-color-contrast-an-expert-designers-guide-33e84c41d156)
+- [Designing accessible color systems](https://stripe.com/en-de/blog/accessible-color-systems)
 
 ### Typography
 
