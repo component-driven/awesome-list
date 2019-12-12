@@ -72,6 +72,7 @@ A curated list of links on component-driven development and design systems
 - [Creating truly universal React component systems. Announcing styled-components/primitives](https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7)
 - [Designer-Oriented Styles](https://the-pastry-box-project.net/james-kyle/2018-january-22)
 - [Styling themes](https://johno.com/styling-themes)
+- [React SSR pitfalls in building adaptive layouts](https://nikitakirsanov.com/en/blog/adaptive-layout-in-react-apps-with-ssr/)
 
 ### Testing
 
