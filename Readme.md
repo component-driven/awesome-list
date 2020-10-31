@@ -46,7 +46,7 @@ A curated list of links on component-driven development and design systems
 
 - [Cards and Composability in Design Systems](https://medium.com/eightshapes-llc/cards-and-composability-in-design-systems-8845ecbee50e)
 - [Component Based Design System With Styled-System](https://varun.ca/styled-system/)
-- [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
+- [Defining Component APIs in React](https://jxnblk.com/blog/defining-component-apis-in-react/)
 - [Designing Button States](https://cloudfour.com/thinks/designing-button-states/)
 - [Handling spacing in a UI component library](https://medium.com/fed-or-dead/handling-spacing-in-a-ui-component-library-70f3b22ec89)
 - [Hidden in plain site — the levels of component reuse. The path to portability for UI components](https://blog.hichroma.com/hidden-in-plain-site-the-levels-of-component-reuse-ee9b0d7b1bd2)
@@ -54,7 +54,7 @@ A curated list of links on component-driven development and design systems
 
 #### React
 
-- [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/)
+- [Patterns for Style Composition in React](https://jxnblk.com/blog/patterns-for-style-composition-in-react/)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [The Three Tenets of Styled System](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)
 
